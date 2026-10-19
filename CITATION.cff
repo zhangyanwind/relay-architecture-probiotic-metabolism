@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript and this repository."
+title: "Analysis code: Incomplete by architecture - the relay architecture of probiotic metabolism"
+abstract: "Analysis pipeline for a 351-genome, 41-unit probiotic pangenome: genome download and panel selection, two-level protein clustering, HMM-based relay trait annotation, direction assignment, Fitch ancestral-state reconstruction, dN/dS estimation, partner identification from 21 HMP2 metagenomes, and generation of all main and supplementary figures."
+authors:
+  - family-names: Zhang
+    given-names: Yan
+    affiliation: Hefei Normal University
+  - family-names: Li
+    given-names: Ying
+    affiliation: Hefei Normal University
+  - family-names: Zhao
+    given-names: Tianjiao
+    affiliation: Hefei Normal University
+  - family-names: Zhou
+    given-names: Minghui
+    affiliation: Hefei Normal University
+  - family-names: Wang
+    given-names: Wei
+    affiliation: Hefei Normal University
+  - family-names: Han
+    given-names: Maozhen
+    affiliation: Anhui Medical University
+license: MIT
+type: software
